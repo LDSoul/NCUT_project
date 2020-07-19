@@ -20,3 +20,6 @@ Image_to_csv
 6)新增兩個csv檔案至colab上(train.csv與test.csv)
 
 7)將此程式碼copy到colab上執行即可至做train.csv與test.csv
+----------------------------------------------------------
+others
+1)都是測試過的程式碼 都丟這裡
